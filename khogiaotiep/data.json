@@ -1,0 +1,30 @@
+{
+    "GIAO TIẾP CƠ BẢN": [
+        {"phrase": "Chào buổi sáng", "icon": "☀️"},
+        {"phrase": "Chào buổi tối", "icon": "🌙"},
+        {"phrase": "Cảm ơn rất nhiều", "icon": "💖"},
+        {"phrase": "Tôi là robot AI", "icon": "🤖"},
+        {"phrase": "Đúng là như vậy", "icon": "✅"},
+        {"phrase": "Không thể nào", "icon": "❌"}
+    ],
+    "NHU CẦU THIẾT YẾU": [
+        {"phrase": "Tôi muốn ăn cơm", "icon": "🍚"},
+        {"phrase": "Làm ơn cho tôi nước", "icon": "💧"},
+        {"phrase": "Tôi mệt, muốn nghỉ ngơi", "icon": "🛌"},
+        {"phrase": "Đi vệ sinh", "icon": "🚽"},
+        {"phrase": "Tôi muốn đi dạo", "icon": "🌳"}
+    ],
+    "CHẨN ĐOÁN Y TẾ": [
+        {"phrase": "Tôi đau đầu quá", "icon": "🤕"},
+        {"phrase": "Tôi cảm thấy khó thở", "icon": "🫁"},
+        {"phrase": "Đau vùng bụng", "icon": "🤢"},
+        {"phrase": "Đau mỏi vai gáy", "icon": "💆‍♂️"},
+        {"phrase": "Liên lạc bác sĩ ngay", "icon": "🚑"}
+    ],
+    "CẢM XÚC": [
+        {"phrase": "Tôi thấy rất hạnh phúc", "icon": "🌟"},
+        {"phrase": "Một ngày thật tệ", "icon": "😔"},
+        {"phrase": "Tôi đang bình tĩnh", "icon": "🧘"},
+        {"phrase": "Cái này tuyệt quá!", "icon": "✨"}
+    ]
+}
